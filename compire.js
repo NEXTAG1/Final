@@ -110,19 +110,19 @@ getValue.addEventListener('input', function () {
             <div class="carousel-inner ">
               <div class="carousel-item active">
                 <img class="d-block w-100"
-                  src="/GUCCI-PRADA/gucci/GG Marmont leather pouch 830$/475317_DJ20T_1000_001_100_0010_Light-GG-Marmont-leather-pouch.jpg" alt="First slide">
+                  src="GUCCI-PRADA/gucci/GG Marmont leather pouch 830$/475317_DJ20T_1000_001_100_0010_Light-GG-Marmont-leather-pouch.jpg" alt="First slide">
                 <div class="carousel-caption d-none d-md-block">
                 </div>
               </div>
               <div class="carousel-item">
                 <img class="d-block w-100"
-                  src="/GUCCI-PRADA/gucci/GG Marmont leather pouch 830$/475317_DJ20T_1000_002_100_0010_Light-GG-Marmont-leather-pouch.jpg" alt="Second slide">
+                  src="GUCCI-PRADA/gucci/GG Marmont leather pouch 830$/475317_DJ20T_1000_002_100_0010_Light-GG-Marmont-leather-pouch.jpg" alt="Second slide">
                 <div class="carousel-caption d-none d-md-block">
                 </div>
               </div>
               <div class="carousel-item">
                 <img class="d-block w-100"
-                  src="/GUCCI-PRADA/gucci/GG Marmont leather pouch 830$/475317_DJ20T_1000_003_100_0010_Light-GG-Marmont-leather-pouch.jpg" alt="Second slide">
+                  src="GUCCI-PRADA/gucci/GG Marmont leather pouch 830$/475317_DJ20T_1000_003_100_0010_Light-GG-Marmont-leather-pouch.jpg" alt="Second slide">
                 <div class="carousel-caption d-none d-md-block">
                 </div>
               </div>
@@ -205,19 +205,19 @@ getValue.addEventListener('input', function () {
           </ol>
           <div class="carousel-inner ">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="/GUCCI-PRADA/gucci/GG iPhone case with tiger print 480$/575137_G2BAN_1087_001_080_0031_Light-GG-iPhone-case-with-tiger-print.jpg"
+              <img class="d-block w-100" src="GUCCI-PRADA/gucci/GG iPhone case with tiger print 480$/575137_G2BAN_1087_001_080_0031_Light-GG-iPhone-case-with-tiger-print.jpg"
                 alt="First slide">
               <div class="carousel-caption d-none d-md-block">
               </div>
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="/GUCCI-PRADA/gucci/GG iPhone case with tiger print 480$/575137_G2BAN_1087_002_080_0031_Light-GG-iPhone-case-with-tiger-print.jpg"
+              <img class="d-block w-100" src="GUCCI-PRADA/gucci/GG iPhone case with tiger print 480$/575137_G2BAN_1087_002_080_0031_Light-GG-iPhone-case-with-tiger-print.jpg"
                 alt="Second slide">
               <div class="carousel-caption d-none d-md-block">
               </div>
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="/GUCCI-PRADA/gucci/GG iPhone case with tiger print 480$/575137_G2BAN_1087_004_080_0031_Light-GG-iPhone-case-with-tiger-print.jpg"
+              <img class="d-block w-100" src="GUCCI-PRADA/gucci/GG iPhone case with tiger print 480$/575137_G2BAN_1087_004_080_0031_Light-GG-iPhone-case-with-tiger-print.jpg"
                 alt="Second slide">
               <div class="carousel-caption d-none d-md-block">
               </div>
@@ -3414,13 +3414,13 @@ getValue1.addEventListener('input', function () {
           </ol>
           <div class="carousel-inner ">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="/GUCCI-PRADA/prada/Small Prada Cahier wallet 570$/cq5dam.web.white.1280x1280 (1).webp"
+              <img class="d-block w-100" src="GUCCI-PRADA/prada/Small Prada Cahier wallet 570$/cq5dam.web.white.1280x1280 (1).webp"
                 alt="First slide">
               <div class="carousel-caption d-none d-md-block">
               </div>
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="/GUCCI-PRADA/prada/Small Prada Cahier wallet 570$/cq5dam.web.white.1280x1280 (2).webp"
+              <img class="d-block w-100" src="GUCCI-PRADA/prada/Small Prada Cahier wallet 570$/cq5dam.web.white.1280x1280 (2).webp"
                 alt="Second slide">
               <div class="carousel-caption d-none d-md-block">
               </div>
