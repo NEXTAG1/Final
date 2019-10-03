@@ -3263,6 +3263,1384 @@ getValue.addEventListener('input', function () {
       break;
     }
     //**CALVIN KLEIN WALLET */
+    case "FENDI - BIFORD":{
+      text=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/Fendi_a.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/Fendi_c.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">FENDI-BIFOLD</div><br>
+        <!--Price of product-->
+        <div class="Price">$290.00</div><br>
+        <div class="Property">
+          <p>COLOR :RED/YELLOW <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Card holder with six slots and flat central pocket. Made of PU with brown FF motif. Fendi Label print in yellow. Made in Italy. </p>
+            <li>Length:3.9 inches</li>
+            <li>Height:3.1 inches</li>
+                      <li>Depth:inches</li>
+                      <li>Composition:45% Cotton, 40% Polyurethane, 15% Polyester </li>
+            <p>Universal Style #: Product Code:7M0164A7SBF17HW</p>
+            <p>More information? <a href="Information/FENDI-BIFOLD.docx">Click here</a></p>
+            
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "FENDI-BIFOLDA":{
+      text=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/8M0387A18BF0MVV_01_large.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/8M0387A18BF0MVV_04_large.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">FENDI-BIFOLD</div><br>
+        <!--Price of product-->
+        <div class="Price">$490.00</div><br>
+        <div class="Property">
+          <p>COLOR :Red leather compact wallet <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>F is Fendi compact bi-fold wallet. Interior organized with a flat pocket, a coin pocket with press stud and four card slots. Made of red tumbled Cruise leather. Decorated with the F is Fendi logo. Gold-finish metalware.Made in Italy. </p>
+            <li>Length:3.5 inches</li>
+            <li>Height:4.5 inches</li>
+                      <li>Depth:1 inches</li>
+                      <li>Composition:100% Calfskin</li>
+                      <p>Universal Style: Product Code:8M0387A18BF0MVV</p>	
+                      <p>More information? <a href="Information/FENDI-BIFOLDA.docx">Click here</a></p>            
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "FENDI-COIN PURSE":{
+      text=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/7M0270O73F17HQ_01_large.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/7M0270O73F17HQ_03_large.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">FENDI-COIN PURSE</div><br>
+        <!--Price of product-->
+        <div class="Price">$490.00</div><br>
+        <div class="Property">
+          <p>COLOR :BLACK/RED <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Coin purse with gusseted sides. Zip fastening on two sides. Made of black calfskin. Yellow leather appliqués in the shape of Bag Bugs eyes.Made in Italy. </p>
+            <li>Length:8.5 inches</li>
+            <li>Height:3.9 inches</li>
+                      <li>Depth:0.8 inches</li>
+                      <li>Composition:100% Lamb leather + back: 100% Calf </li>
+            <p>Universal Style #: Product Code:7M0270O73F17HQ</p>
+            <p>More information? <a href="Information/FENDI-COIN PURSE.docx">Click here</a></p>
+            
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "FENDI-CONTINENTAL WITH CHAIN":{
+      text=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/8M0365A18BF11CB_01_large.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/8M0365A18BF11CB_04_large.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">FENDI-CONTINENTAL WITH CHAIN</div><br>
+        <!--Price of product-->
+        <div class="Price">$850.00</div><br>
+        <div class="Property">
+          <p>COLOR :RED/PINK/BROWN/LIGHT PINK <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Continental F is Fendi wallet with slim detachable chain shoulder strap. Inside, it has two gusseted compartments, zip pocket, flat pockets and six credit card slots. Made of white cruise leather. Twist lock with the new Fendi logo. Gold metalware.
+  Made in Italy. </p>
+            <li>Length:7.5 inches</li>
+            <li>Height:3.5 inches</li>
+                      <li>Depth:0.4 inches</li>
+                      <li>Composition:100% calfskin</li>
+            <p>Universal Style #: Product Code:8M0365A18BF01KW</p>
+            <p>More information? <a href="Information/FENDI-CONTINENTAL WITH CHAIN.docx">Click here</a></p>
+            
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "FENDI-CONTINENTAL":{
+      text=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/8M0251A6CBF13VK_01_large 1.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/8M0251A6CBF13VK_02_large 2.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">FENDI-CONTINENTAL</div><br>
+        <!--Price of product-->
+        <div class="Price">$770.00</div><br>
+        <div class="Property">
+          <p>COLOR :BLACK/RED/PINK <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Continental F is Fendi wallet fastened with a press stud. Spacious and well-organized, with two gusseted pockets, a zippered pocket, ten card slots and flat side pockets. Made of black calf leather. FF pattern printed in relief and hand-painted in tones of black and brown. Gold-finish metalware. Made in Italy. </p>
+            <li>Length:7.5 inches</li>
+            <li>Height:3.5 inches</li>
+            <li>Depth:0.4 inches</li>
+            <li>Composition:100% Calf leather, inside: 100% Calf leather, 50% Cotton, 42% Polyamide, 8% Resins, embroidery: 100% Zamak
+  </li>
+            <p>Universal Style #: Product Code:8M0251A6CBF13VK</p>
+            <p>More information? <a href="Information/FENDI-CONTINENTAL.docx">Click here</a></p>
+            
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "FENDI-MICRO TRIFOLD":{
+      text=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/8M0415A5DYF0MVV_01_large.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/8M0415A5DYF0MVV_03_large.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">FENDI-MICRO TRIFOLD</div><br>
+        <!--Price of product-->
+        <div class="Price">$650.00</div><br>
+        <div class="Property">
+          <p>COLOR :COLOR : BLACK/RED <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Compact, tri-fold Peekaboo wallet with large internal bill compartment and three concealed card holders. External purse with iconic hook closure. Made of matte-effect red calf leather. Contrasting two-tone lining. Gold-finish metalware. Made in Italy. </p>
+            <li>Length:2.8 inches</li>
+            <li>Height:3.7 inches</li>
+            <li>Depth:1.2 inches</li>
+            <li>Composition:100% Calfskin</li>
+            <p>Universal Style #: Product Code:8M0415A5DYF0MVV</p>
+            <p>More information? <a href="Information/FENDI-MICRO TRIFOLD.docx">Click here</a></p>
+            
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "FENDI-MICRO TRIFOLDA":{
+      text=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/8M0395SMTF1893_01_large.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/8M0395SMTF1893_03_large.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">FENDI-MICRO TRIFOLD</div><br>
+        <!--Price of product-->
+        <div class="Price">$630.00</div><br>
+        <div class="Property">
+          <p>COLOR :Brown leather wallet <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Compact trifold Selleria wallet, with large internal bill compartment, three concealed card holders and an external coin purse with a press-stud fastening. Made of brown Romano leather, with tone-on-tone hand stitching. Contrasting two-tone lining. Gold-finish metalware.Made in Italy. </p>
+            <li>Length:3.7 inches</li>
+            <li>Height:3 inches</li>
+                      <li>Depth:1.2 inches</li>
+            <p>Universal Style: Product Code:8M0395SMTF1893</p>
+                      <p>More information? <a href="Information/FENDI-MICRO TRIFOLDA.docx">Click here</a></p>
+            
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "FENDI-ZIP-AROUND":{
+      text=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/8M04016GMF13VK_01_large.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/8M04016GMF13VK_04_large.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">FENDI-ZIP-AROUND</div><br>
+        <!--Price of product-->
+        <div class="Price">$550.00</div><br>
+        <div class="Property">
+          <p>COLOR :Brown leather wallet <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>By The Way wallet with zip fastening along three sides. Interior features a large bill compartment, 8 card holder slots and a removable coin pouch with zip fastening. Made of brown calfskin. Black leather interior and pouch. Decorated with the iconic By The Way stud. Gold-finish metalware.Made in Italy. </p>
+            <li>Length:15</li>
+            <li>Height:10,5</li>
+                      <li>Depth:2</li>
+                      <li>Composition:100% calf leather + inside: 100% calf leather + 50% cotton, 42% polyamide, 8% resins</li>
+                      <p>Universal Style: Product Code:8M04016GMF13VK</p>	
+                      <p>More information? <a href="Information/FENDI-ZIP AROUND.docx">Click here</a></p>            
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "FENI-CARD POUCH":{
+      text=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/8M0348A18BF11CB_01_large.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/8M0348A18BF11CB_02_large.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">FENDI-CARD POUCH</div><br>
+        <!--Price of product-->
+        <div class="Price">$420.00</div><br>
+        <div class="Property">
+          <p>COLOR :White leather card holder <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Small slim F is Fendi pouch with gusseted interior and 5 card slots on the back. Zip fastening. Made of white cruise leather. Decorated with the new Fendi logo. Gold metalware.Made in Italy. </p>
+            <li>Length:13,5</li>
+            <li>Height:8</li>
+                      <li>Depth:,5</li>
+                      <li>Composition:100% calf leather</li>
+                      <p>Universal Style: Product Code:8M0348A18BF11CB</p>	
+                      <p>More information? <a href="Information/FENDI-CARD POUCH.docx">Click here</a></p>            
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    //fendi wallet
+    case "CHANEL 19 Waist Bag":{
+      text=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/chanel-19-waist-bag-navy-blue-black-wool-tweed-gold-tone-silver-tone-ruthenium-finish-metal-wool-tweed-gold-tone-silver-tone-ruthenium-finish-metal-packshot-default-as1163b01624mh059-8819792314398.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/chanel-19-waist-bag-navy-blue-black-wool-tweed-gold-tone-silver-tone-ruthenium-finish-metal-wool-tweed-gold-tone-silver-tone-ruthenium-finish-metal-packshot-alternative-as1163b01624mh059-8819794673694.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">CHANEL 19 Waist Bag</div><br>
+        <!--Price of product-->
+        <div class="Price">CAN$4,200</div><br>
+        <div class="Property">
+          <p>COLOR : Navy Blue/Black <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Wool Tweed, Gold-Tone, Silver-Tone & Ruthenium-Finish Metal.</p>
+            <li>Reference: AS1163 B01624 MH059</li>
+            <li>11 × 20 × 5 cm</li>
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "CHANEL- 2.55 Card Holder":{
+      text=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/2-55-card-holder-black-aged-calfskin-black-metal-aged-calfskin-black-metal-packshot-alternative-a80611y8360894305-8819836878878.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/2-55-card-holder-black-aged-calfskin-black-metal-aged-calfskin-black-metal-packshot-other-a80611y8360894305-8819820167198.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">CHANEL- 2.55 Card Holder</div><br>
+        <!--Price of product-->
+        <div class="Price">SGD 510</div><br>
+        <div class="Property">
+          <p>COLOR :BLACK <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Aged Calfskin & Black Metal</p>
+            <li>Reference: A80611 Y83608</li>
+            <li>7.5 × 0.5 × 11.2 cm</li>
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "CHANEL-2.55 Handbag":{
+      text=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/2-55-handbag-ecru-navy-blue-orange-white-wool-tweed-denim-gold-tone-metal-wool-tweed-denim-gold-tone-metal-packshot-default-a37586b01467n5259-8819789889566.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/2-55-handbag-ecru-navy-blue-orange-white-wool-tweed-denim-gold-tone-metal-wool-tweed-denim-gold-tone-metal-packshot-other-a37586b01467n5259-8819788316702.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">CHANEL-2.55 Handbag</div><br>
+        <!--Price of product-->
+        <div class="Price">CAN$6,825</div><br>
+        <div class="Property">
+          <p>COLOR : Ecru, Navy Blue, Orange ,White <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Wool Tweed, Denim & Gold-Tone Metal</p>
+            <li>16 × 24 × 7.5 cm</li>
+                      <li>Reference: A37586 B01467 N5259</li>
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "CHANEL-BOY CHANEL Zipped Coin Purse":{
+      text=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/boy-chanel-zipped-coin-purse-black-lambskin-gold-tone-metal-lambskin-gold-tone-metal-packshot-default-a80602y0765994305-8819948322846.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/boy-chanel-zipped-coin-purse-black-lambskin-gold-tone-metal-lambskin-gold-tone-metal-packshot-other-a80602y0765994305-8812132007966.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">CHANEL-BOY CHANEL Zipped Coin Purse</div><br>
+        <!--Price of product-->
+        <div class="Price">SGD 800</div><br>
+        <div class="Property">
+          <p>COLOR :GREEN/BLACK <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Lambskin & Gold-Tone Metal</p>
+            <li>Reference: A80602 Y07659 94305</li>
+            <li> 7.5 × 11 × 2 cm </li>
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "CHANEL-Clutch":{
+      text=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/clutch-black-lambskin-gold-tone-metal-lambskin-gold-tone-metal-packshot-default-as1184b0151794305-8819798999070.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/clutch-black-lambskin-gold-tone-metal-lambskin-gold-tone-metal-packshot-other-as1184b0151794305-8819787005982.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">CHANEL-Clutch</div><br>
+        <!--Price of product-->
+        <div class="Price">CAN$4,550</div><br>
+        <div class="Property">
+          <p>COLOR : Black <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Lambskin & Gold-Tone MetaL.</p>
+            <li>17 × 31 × 4 cm</li>
+                      <li>Reference: AS1184 B01517 94305</li>
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "CHANEL-Flap Bag":{
+      text=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/flap-bag-silver-black-sequins-ruthenium-finish-metal-sequins-ruthenium-finish-metal-packshot-default-as1078b01638n4552-8819791134750.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/flap-bag-silver-black-sequins-ruthenium-finish-metal-sequins-ruthenium-finish-metal-packshot-other-as1078b01638n4552-8819799588894.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">CHANEL-Flap Bag</div><br>
+        <!--Price of product-->
+        <div class="Price">CAN$6,450</div><br>
+        <div class="Property">
+          <p>COLOR : Silver/Black <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Sequins & Ruthenium-Finish Metal</p>
+            <li>15 × 22 × 7 cm</li>
+                      <li>Reference: AS1078 B01638 N4552</li>
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "CHANEL-Small Vanity Case":{
+      text=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/small-vanity-case-navy-blue-black-gray-jersey-calfskin-gold-tone-metal-jersey-calfskin-gold-tone-metal-packshot-default-a93342b01189n4963-8818377392158.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/small-vanity-case-navy-blue-black-gray-jersey-calfskin-gold-tone-metal-jersey-calfskin-gold-tone-metal-packshot-other-a93342b01189n4963-8818376212510.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">CHANEL-Small Vanity Case</div><br>
+        <!--Price of product-->
+        <div class="Price">CAN$4,725</div><br>
+        <div class="Property">
+          <p>COLOR : Navy Blue, Black & Gray <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Jersey, Calfskin & Gold-Tone Metal</p>
+            <li>13 × 7 × 17 cm</li>
+                      <li>Reference: A93342 B01189 N4963</li>
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "CHANEL-Waist Bag & Coin Purse":{
+      text=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/waist-bag-coin-purse-white-aged-calfskin-gold-tone-metal-aged-calfskin-gold-tone-metal-packshot-default-as1077b0140110601-8819796377630.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/waist-bag-coin-purse-white-aged-calfskin-gold-tone-metal-aged-calfskin-gold-tone-metal-packshot-other-as1077b0140110601-8819796639774.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">CHANEL-Waist Bag & Coin Purse</div><br>
+        <!--Price of product-->
+        <div class="Price">CAN$3,625</div><br>
+        <div class="Property">
+          <p>COLOR : White <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Aged Calfskin & Gold-Tone Metal</p>
+            <li>15 × 34 × 6 cm</li>
+                      <li>Reference: AS1077 B01401 10601</li>
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "CHANEL-Waist Bag":{
+      text=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/waist-bag-black-brown-shiny-crumpled-sheepskin-shearling-sheepskin-gold-tone-metal-shiny-crumpled-sheepskin-shearling-sheepskin-gold-tone-metal-packshot-default-as0406b01575n5275-8819788808222.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/waist-bag-black-brown-shiny-crumpled-sheepskin-shearling-sheepskin-gold-tone-metal-shiny-crumpled-sheepskin-shearling-sheepskin-gold-tone-metal-packshot-other-as0406b01575n5275-8819797753886.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">CHANEL-Waist Bag</div><br>
+        <!--Price of product-->
+        <div class="Price">CAN$4,625</div><br>
+        <div class="Property">
+          <p>COLOR : Black/Brown <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Shiny Crumpled Sheepskin, Shearling Sheepskin & Gold-Tone Metal.</p>
+            <li>11 × 17 × 5 cm</li>
+                      <li>Reference: AS0406 B01575 N5275</li>
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+
+    //chanel wallet
     case "LOUIS VUITTON - ADÈLE WALLET": {
       text = `<div class="row">
       <!-- Image of product-->
@@ -8064,6 +9442,1383 @@ getValue1.addEventListener('input', function () {
       break;
     }
     //**prada wallet */
+    case "FENDI - BIFORD":{
+      text2=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/Fendi_a.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/Fendi_c.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">FENDI-BIFOLD</div><br>
+        <!--Price of product-->
+        <div class="Price">$290.00</div><br>
+        <div class="Property">
+          <p>COLOR :RED/YELLOW <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Card holder with six slots and flat central pocket. Made of PU with brown FF motif. Fendi Label print in yellow. Made in Italy. </p>
+            <li>Length:3.9 inches</li>
+            <li>Height:3.1 inches</li>
+                      <li>Depth:inches</li>
+                      <li>Composition:45% Cotton, 40% Polyurethane, 15% Polyester </li>
+            <p>Universal Style #: Product Code:7M0164A7SBF17HW</p>
+            <p>More information? <a href="Information/FENDI-BIFOLD.docx">Click here</a></p>
+            
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "FENDI-BIFOLDA":{
+      text2=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/8M0387A18BF0MVV_01_large.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/8M0387A18BF0MVV_04_large.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">FENDI-BIFOLD</div><br>
+        <!--Price of product-->
+        <div class="Price">$490.00</div><br>
+        <div class="Property">
+          <p>COLOR :Red leather compact wallet <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>F is Fendi compact bi-fold wallet. Interior organized with a flat pocket, a coin pocket with press stud and four card slots. Made of red tumbled Cruise leather. Decorated with the F is Fendi logo. Gold-finish metalware.Made in Italy. </p>
+            <li>Length:3.5 inches</li>
+            <li>Height:4.5 inches</li>
+                      <li>Depth:1 inches</li>
+                      <li>Composition:100% Calfskin</li>
+                      <p>Universal Style: Product Code:8M0387A18BF0MVV</p>	
+                      <p>More information? <a href="Information/FENDI-BIFOLDA.docx">Click here</a></p>            
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "FENDI-COIN PURSE":{
+      text2=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/7M0270O73F17HQ_01_large.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/7M0270O73F17HQ_03_large.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">FENDI-COIN PURSE</div><br>
+        <!--Price of product-->
+        <div class="Price">$490.00</div><br>
+        <div class="Property">
+          <p>COLOR :BLACK/RED <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Coin purse with gusseted sides. Zip fastening on two sides. Made of black calfskin. Yellow leather appliqués in the shape of Bag Bugs eyes.Made in Italy. </p>
+            <li>Length:8.5 inches</li>
+            <li>Height:3.9 inches</li>
+                      <li>Depth:0.8 inches</li>
+                      <li>Composition:100% Lamb leather + back: 100% Calf </li>
+            <p>Universal Style #: Product Code:7M0270O73F17HQ</p>
+            <p>More information? <a href="Information/FENDI-COIN PURSE.docx">Click here</a></p>
+            
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "FENDI-CONTINENTAL WITH CHAIN":{
+      text2=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/8M0365A18BF11CB_01_large.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/8M0365A18BF11CB_04_large.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">FENDI-CONTINENTAL WITH CHAIN</div><br>
+        <!--Price of product-->
+        <div class="Price">$850.00</div><br>
+        <div class="Property">
+          <p>COLOR :RED/PINK/BROWN/LIGHT PINK <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Continental F is Fendi wallet with slim detachable chain shoulder strap. Inside, it has two gusseted compartments, zip pocket, flat pockets and six credit card slots. Made of white cruise leather. Twist lock with the new Fendi logo. Gold metalware.
+  Made in Italy. </p>
+            <li>Length:7.5 inches</li>
+            <li>Height:3.5 inches</li>
+                      <li>Depth:0.4 inches</li>
+                      <li>Composition:100% calfskin</li>
+            <p>Universal Style #: Product Code:8M0365A18BF01KW</p>
+            <p>More information? <a href="Information/FENDI-CONTINENTAL WITH CHAIN.docx">Click here</a></p>
+            
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "FENDI-CONTINENTAL":{
+      text2=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/8M0251A6CBF13VK_01_large 1.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/8M0251A6CBF13VK_02_large 2.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">FENDI-CONTINENTAL</div><br>
+        <!--Price of product-->
+        <div class="Price">$770.00</div><br>
+        <div class="Property">
+          <p>COLOR :BLACK/RED/PINK <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Continental F is Fendi wallet fastened with a press stud. Spacious and well-organized, with two gusseted pockets, a zippered pocket, ten card slots and flat side pockets. Made of black calf leather. FF pattern printed in relief and hand-painted in tones of black and brown. Gold-finish metalware. Made in Italy. </p>
+            <li>Length:7.5 inches</li>
+            <li>Height:3.5 inches</li>
+            <li>Depth:0.4 inches</li>
+            <li>Composition:100% Calf leather, inside: 100% Calf leather, 50% Cotton, 42% Polyamide, 8% Resins, embroidery: 100% Zamak
+  </li>
+            <p>Universal Style #: Product Code:8M0251A6CBF13VK</p>
+            <p>More information? <a href="Information/FENDI-CONTINENTAL.docx">Click here</a></p>
+            
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "FENDI-MICRO TRIFOLD":{
+      text2=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/8M0415A5DYF0MVV_01_large.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/8M0415A5DYF0MVV_03_large.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">FENDI-MICRO TRIFOLD</div><br>
+        <!--Price of product-->
+        <div class="Price">$650.00</div><br>
+        <div class="Property">
+          <p>COLOR :COLOR : BLACK/RED <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Compact, tri-fold Peekaboo wallet with large internal bill compartment and three concealed card holders. External purse with iconic hook closure. Made of matte-effect red calf leather. Contrasting two-tone lining. Gold-finish metalware. Made in Italy. </p>
+            <li>Length:2.8 inches</li>
+            <li>Height:3.7 inches</li>
+            <li>Depth:1.2 inches</li>
+            <li>Composition:100% Calfskin</li>
+            <p>Universal Style #: Product Code:8M0415A5DYF0MVV</p>
+            <p>More information? <a href="Information/FENDI-MICRO TRIFOLD.docx">Click here</a></p>
+            
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "FENDI-MICRO TRIFOLDA":{
+      text2=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/8M0395SMTF1893_01_large.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/8M0395SMTF1893_03_large.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">FENDI-MICRO TRIFOLD</div><br>
+        <!--Price of product-->
+        <div class="Price">$630.00</div><br>
+        <div class="Property">
+          <p>COLOR :Brown leather wallet <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Compact trifold Selleria wallet, with large internal bill compartment, three concealed card holders and an external coin purse with a press-stud fastening. Made of brown Romano leather, with tone-on-tone hand stitching. Contrasting two-tone lining. Gold-finish metalware.Made in Italy. </p>
+            <li>Length:3.7 inches</li>
+            <li>Height:3 inches</li>
+                      <li>Depth:1.2 inches</li>
+            <p>Universal Style: Product Code:8M0395SMTF1893</p>
+                      <p>More information? <a href="Information/FENDI-MICRO TRIFOLDA.docx">Click here</a></p>
+            
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "FENDI-ZIP-AROUND":{
+      text2=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/8M04016GMF13VK_01_large.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/8M04016GMF13VK_04_large.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">FENDI-ZIP-AROUND</div><br>
+        <!--Price of product-->
+        <div class="Price">$550.00</div><br>
+        <div class="Property">
+          <p>COLOR :Brown leather wallet <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>By The Way wallet with zip fastening along three sides. Interior features a large bill compartment, 8 card holder slots and a removable coin pouch with zip fastening. Made of brown calfskin. Black leather interior and pouch. Decorated with the iconic By The Way stud. Gold-finish metalware.Made in Italy. </p>
+            <li>Length:15</li>
+            <li>Height:10,5</li>
+                      <li>Depth:2</li>
+                      <li>Composition:100% calf leather + inside: 100% calf leather + 50% cotton, 42% polyamide, 8% resins</li>
+                      <p>Universal Style: Product Code:8M04016GMF13VK</p>	
+                      <p>More information? <a href="Information/FENDI-ZIP AROUND.docx">Click here</a></p>            
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "FENI-CARD POUCH":{
+      text2=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/8M0348A18BF11CB_01_large.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/8M0348A18BF11CB_02_large.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">FENDI-CARD POUCH</div><br>
+        <!--Price of product-->
+        <div class="Price">$420.00</div><br>
+        <div class="Property">
+          <p>COLOR :White leather card holder <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Small slim F is Fendi pouch with gusseted interior and 5 card slots on the back. Zip fastening. Made of white cruise leather. Decorated with the new Fendi logo. Gold metalware.Made in Italy. </p>
+            <li>Length:13,5</li>
+            <li>Height:8</li>
+                      <li>Depth:,5</li>
+                      <li>Composition:100% calf leather</li>
+                      <p>Universal Style: Product Code:8M0348A18BF11CB</p>	
+                      <p>More information? <a href="Information/FENDI-CARD POUCH.docx">Click here</a></p>            
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    //fendi wallet
+    case "CHANEL 19 Waist Bag":{
+      text2=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/chanel-19-waist-bag-navy-blue-black-wool-tweed-gold-tone-silver-tone-ruthenium-finish-metal-wool-tweed-gold-tone-silver-tone-ruthenium-finish-metal-packshot-default-as1163b01624mh059-8819792314398.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/chanel-19-waist-bag-navy-blue-black-wool-tweed-gold-tone-silver-tone-ruthenium-finish-metal-wool-tweed-gold-tone-silver-tone-ruthenium-finish-metal-packshot-alternative-as1163b01624mh059-8819794673694.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">CHANEL 19 Waist Bag</div><br>
+        <!--Price of product-->
+        <div class="Price">CAN$4,200</div><br>
+        <div class="Property">
+          <p>COLOR : Navy Blue/Black <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Wool Tweed, Gold-Tone, Silver-Tone & Ruthenium-Finish Metal.</p>
+            <li>Reference: AS1163 B01624 MH059</li>
+            <li>11 × 20 × 5 cm</li>
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "CHANEL- 2.55 Card Holder":{
+      text2=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/2-55-card-holder-black-aged-calfskin-black-metal-aged-calfskin-black-metal-packshot-alternative-a80611y8360894305-8819836878878.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/2-55-card-holder-black-aged-calfskin-black-metal-aged-calfskin-black-metal-packshot-other-a80611y8360894305-8819820167198.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">CHANEL- 2.55 Card Holder</div><br>
+        <!--Price of product-->
+        <div class="Price">SGD 510</div><br>
+        <div class="Property">
+          <p>COLOR :BLACK <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Aged Calfskin & Black Metal</p>
+            <li>Reference: A80611 Y83608</li>
+            <li>7.5 × 0.5 × 11.2 cm</li>
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "CHANEL-2.55 Handbag":{
+      text2=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/2-55-handbag-ecru-navy-blue-orange-white-wool-tweed-denim-gold-tone-metal-wool-tweed-denim-gold-tone-metal-packshot-default-a37586b01467n5259-8819789889566.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/2-55-handbag-ecru-navy-blue-orange-white-wool-tweed-denim-gold-tone-metal-wool-tweed-denim-gold-tone-metal-packshot-other-a37586b01467n5259-8819788316702.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">CHANEL-2.55 Handbag</div><br>
+        <!--Price of product-->
+        <div class="Price">CAN$6,825</div><br>
+        <div class="Property">
+          <p>COLOR : Ecru, Navy Blue, Orange ,White <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Wool Tweed, Denim & Gold-Tone Metal</p>
+            <li>16 × 24 × 7.5 cm</li>
+                      <li>Reference: A37586 B01467 N5259</li>
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "CHANEL-BOY CHANEL Zipped Coin Purse":{
+      text2=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/boy-chanel-zipped-coin-purse-black-lambskin-gold-tone-metal-lambskin-gold-tone-metal-packshot-default-a80602y0765994305-8819948322846.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/boy-chanel-zipped-coin-purse-black-lambskin-gold-tone-metal-lambskin-gold-tone-metal-packshot-other-a80602y0765994305-8812132007966.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">CHANEL-BOY CHANEL Zipped Coin Purse</div><br>
+        <!--Price of product-->
+        <div class="Price">SGD 800</div><br>
+        <div class="Property">
+          <p>COLOR :GREEN/BLACK <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Lambskin & Gold-Tone Metal</p>
+            <li>Reference: A80602 Y07659 94305</li>
+            <li> 7.5 × 11 × 2 cm </li>
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "CHANEL-Clutch":{
+      text2=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/clutch-black-lambskin-gold-tone-metal-lambskin-gold-tone-metal-packshot-default-as1184b0151794305-8819798999070.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/clutch-black-lambskin-gold-tone-metal-lambskin-gold-tone-metal-packshot-other-as1184b0151794305-8819787005982.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">CHANEL-Clutch</div><br>
+        <!--Price of product-->
+        <div class="Price">CAN$4,550</div><br>
+        <div class="Property">
+          <p>COLOR : Black <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Lambskin & Gold-Tone MetaL.</p>
+            <li>17 × 31 × 4 cm</li>
+                      <li>Reference: AS1184 B01517 94305</li>
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "CHANEL-Flap Bag":{
+      text2=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/flap-bag-silver-black-sequins-ruthenium-finish-metal-sequins-ruthenium-finish-metal-packshot-default-as1078b01638n4552-8819791134750.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/flap-bag-silver-black-sequins-ruthenium-finish-metal-sequins-ruthenium-finish-metal-packshot-other-as1078b01638n4552-8819799588894.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">CHANEL-Flap Bag</div><br>
+        <!--Price of product-->
+        <div class="Price">CAN$6,450</div><br>
+        <div class="Property">
+          <p>COLOR : Silver/Black <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Sequins & Ruthenium-Finish Metal</p>
+            <li>15 × 22 × 7 cm</li>
+                      <li>Reference: AS1078 B01638 N4552</li>
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "CHANEL-Small Vanity Case":{
+      text2=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/small-vanity-case-navy-blue-black-gray-jersey-calfskin-gold-tone-metal-jersey-calfskin-gold-tone-metal-packshot-default-a93342b01189n4963-8818377392158.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/small-vanity-case-navy-blue-black-gray-jersey-calfskin-gold-tone-metal-jersey-calfskin-gold-tone-metal-packshot-other-a93342b01189n4963-8818376212510.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">CHANEL-Small Vanity Case</div><br>
+        <!--Price of product-->
+        <div class="Price">CAN$4,725</div><br>
+        <div class="Property">
+          <p>COLOR : Navy Blue, Black & Gray <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Jersey, Calfskin & Gold-Tone Metal</p>
+            <li>13 × 7 × 17 cm</li>
+                      <li>Reference: A93342 B01189 N4963</li>
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "CHANEL-Waist Bag & Coin Purse":{
+      text2=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/waist-bag-coin-purse-white-aged-calfskin-gold-tone-metal-aged-calfskin-gold-tone-metal-packshot-default-as1077b0140110601-8819796377630.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/waist-bag-coin-purse-white-aged-calfskin-gold-tone-metal-aged-calfskin-gold-tone-metal-packshot-other-as1077b0140110601-8819796639774.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">CHANEL-Waist Bag & Coin Purse</div><br>
+        <!--Price of product-->
+        <div class="Price">CAN$3,625</div><br>
+        <div class="Property">
+          <p>COLOR : White <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Aged Calfskin & Gold-Tone Metal</p>
+            <li>15 × 34 × 6 cm</li>
+                      <li>Reference: AS1077 B01401 10601</li>
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    case "CHANEL-Waist Bag":{
+      text2=`<div class="row">
+      <!-- Image of product-->
+      <div class="col-sm-12 col-lg-6 ">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleControls" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="1"></li>
+                <li data-target="#carouselExampleControls" data-slide-to="2"></li>
+              </ol>
+              <div class="carousel-inner ">
+               <div class="carousel-item active">
+                  <img class="d-block w-100" src="image/waist-bag-black-brown-shiny-crumpled-sheepskin-shearling-sheepskin-gold-tone-metal-shiny-crumpled-sheepskin-shearling-sheepskin-gold-tone-metal-packshot-default-as0406b01575n5275-8819788808222.jpg" alt="First slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+            </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="image/waist-bag-black-brown-shiny-crumpled-sheepskin-shearling-sheepskin-gold-tone-metal-shiny-crumpled-sheepskin-shearling-sheepskin-gold-tone-metal-packshot-other-as0406b01575n5275-8819797753886.jpg" alt="Second slide">
+                  <div class="carousel-caption d-none d-md-block">
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+            </div>	
+      </div>
+      <div class="col-lg-6 col-sm-0">
+        <!-- Title of product-->
+        <div class="title-of-product">CHANEL-Waist Bag</div><br>
+        <!--Price of product-->
+        <div class="Price">CAN$4,625</div><br>
+        <div class="Property">
+          <p>COLOR : Black/Brown <br>
+             SIZE : ONE SIZE <br>
+             IN STOCK
+          </p>
+        </div>
+        <button class="add-to-bag">ADD TO BAG</button>
+        <!-- Detail of product-->
+        <div class="detail">
+          <div class="panel-heading">
+            <!-- Detail button-->
+            <br><h5 class="panel-title">
+              <a data-toggle="collapse" href="#collapse">Detail</a>
+            </h5>
+          </div>
+          <!-- Collapse detail of product-->
+          <div id="collapse" class="panel-collapse collapse">
+            <p>Shiny Crumpled Sheepskin, Shearling Sheepskin & Gold-Tone Metal.</p>
+            <li>11 × 17 × 5 cm</li>
+                      <li>Reference: AS0406 B01575 N5275</li>
+        </div>
+        <div class="panel-heading">
+          <h5 class="panel-title">
+            <a data-toggle="collapse" href="#collapse1">CARE & COMPOSITION</a>
+          </h5>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse">
+          <p>
+            <li>Leather</li>
+            <li>Imported</li>
+          </p>
+        </div>
+      </div> 
+    </div>
+  </div>`;
+      break;
+    }
+    //chanel wallet
     default: {
       text2 = 'product 2';
       break;
