@@ -10073,7 +10073,7 @@ getValue1.addEventListener('input', function () {
   </div>`;
       break;
     }
-    case "FENI-CARD POUCH":{
+    case "FENDI-CARD POUCH":{
       text2=`<div class="row">
       <!-- Image of product-->
       <div class="col-sm-12 col-lg-6 ">
