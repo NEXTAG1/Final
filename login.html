@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Register/Login</title>
+  <title>Login</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,7 +11,7 @@
   <!-- Bootstrap -->
   <link rel="stylesheet" href="./register.css">
   <link href="css/bootstrap-4.2.1.css" rel="stylesheet">
-  
+ 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
@@ -73,19 +73,19 @@
     <div class="card bg-light">
       <article class="card-body mx-auto" style="max-width: 400px;">
         <h4 class="card-title mt-3 text-center">SIGN IN</h4>
-        <form>
+        <form onSubmit="myform()">
           <div class="form-group input-group">
             <div class="input-group-prepend">
               <span class="input-group-text"> <i class="fa fa-envelope"></i> </span>
             </div>
-            <input name="" class="form-control" placeholder="Email address" type="email">
+            <input name="" class="form-control" placeholder="Email address" type="email" required>
           </div> <!-- form-group// -->
 
           <div class="form-group input-group">
             <div class="input-group-prepend">
               <span class="input-group-text"> <i class="fa fa-lock"></i> </span>
             </div>
-            <input class="form-control" placeholder="Password" type="password">
+            <input class="form-control" placeholder="Password" type="password" required>
           </div> <!-- form-group// -->
 	      <div>
 	        <p><span style="float: left">
@@ -149,6 +149,12 @@
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap-4.2.1.js"></script>
     <script src="./compire.js"></script>
+	<script>
+		function myform()
+		{
+			alert('Login success' + "\n" + 'Welcome!!!')
+		}
+	</script>
 </body>
 
 </html>
